@@ -10,7 +10,6 @@ I am an **Undergraduate Software Engineering** student currently building my ski
 - **Book Review App:** An application for browsing, adding, and managing book reviews with user authentication.
 
 - 📚 I’m currently working on:
-  - *Blockchain development* for a software engineering internship.
   - Enhancing my skills in **Kotlin** and **JavaScript frameworks**.
 - 🚀 Eager to collaborate on new projects!
 - ✔ Feel free to reach out; I enjoy learning and helping others.
