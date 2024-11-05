@@ -4,7 +4,6 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About Me***
 
-<img align="right" width=200px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWx5ejltdnJxd3Jxb2VzcHB0N3pnM2tjdDI5a2Izc2R3dnI0aW1jdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 I am an **Undergraduate Software Engineering** student currently building my skills in both front-end and back-end development. Some of my projects include:
 - **Ceylon Odyssey:** A MERN-stack project aimed at travel management with features like CRUD operations for destinations and analytics for managing tourism content.
@@ -18,20 +17,16 @@ I am an **Undergraduate Software Engineering** student currently building my ski
 
 Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, and I’m working on improving my English skills.
 
-📫 Reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a>
+📫 Reach me at: <a href="mailto:sakindudinsara9@gmail.com">sakindudinsara9@gmail.com</a>
 
 <br>
 
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
+    
 
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/your-instagram/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="mailto:sakindudinsara9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/sakindu-dinsara-732693243/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/_l00per_/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -54,7 +49,7 @@ Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, a
 
 ###### Database Management:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -73,11 +68,11 @@ Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, a
     <td width="50%">
       <h3 align="center">Ceylon Odyssey</h3>
       <div align="center">
-        <a href="https://github.com/your-github-username/Ceylon-Odyssey" target="_blank">
+        <a href="https://github.com/Loo0per/Ceylon-Odyssey" target="_blank">
           <img src="https://github.com/your-github-username/Ceylon-Odyssey/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="Ceylon Odyssey">
         </a>
         <p>
-          <a href="https://github.com/your-github-username/Ceylon-Odyssey" target="_blank">
+          <a href="https://github.com/Loo0per/Ceylon-Odyssey" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
