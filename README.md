@@ -1,10 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm</b> <a href="https://github.com/your-github-username">Your Name</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm</b> <a href="https://github.com/your-github-username">Sakindu Dinsara</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About Me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWx5ejltdnJxd3Jxb2VzcHB0N3pnM2tjdDI5a2Izc2R3dnI0aW1jdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 I am an **Undergraduate Software Engineering** student currently building my skills in both front-end and back-end development. Some of my projects include:
 - **Ceylon Odyssey:** A MERN-stack project aimed at travel management with features like CRUD operations for destinations and analytics for managing tourism content.
