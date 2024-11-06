@@ -5,7 +5,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About Me***
 
 
-I am an **Undergraduate Software Engineering** student at SLIIT currently building my skills in both front-end and back-end development. Some of my projects include:
+I am an **Undergraduate Software Engineering** student at **SLIIT** currently building my skills in both front-end and back-end development. Some of my projects include:
 - **Ceylon Odyssey:** A MERN-stack project aimed at travel management with features like CRUD operations for destinations and analytics for managing tourism content.
 - **Book Review App:** An application for browsing, adding, and managing book reviews with user authentication.
 
