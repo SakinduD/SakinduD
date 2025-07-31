@@ -10,7 +10,7 @@ I am an **Undergraduate Software Engineering** student at **SLIIT** currently bu
 - **Book Review App:** An application for browsing, adding, and managing book reviews with user authentication.
 
 - 📚 I’m currently working on:
-  - Enhancing my skills in **Kotlin** and **JavaScript frameworks**.
+  - Enhancing my skills in **NextJs** and **Data Pipelines**.
 - 🚀 Eager to collaborate on new projects!
 - ✔ Feel free to reach out; I enjoy learning and helping others.
 
