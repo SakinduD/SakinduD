@@ -16,7 +16,7 @@ I am an **Undergraduate Software Engineering** student at **SLIIT** currently bu
 
 Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, and I’m working on improving my English skills.
 
-📫 <a href="https://sakindu.netlify.app/">My Portfolio</a>
+📫 <a href="https://sakindu.netlify.app/">My Portfolio</a><br>
 📫 Reach me at: <a href="mailto:sakindudinsara9@gmail.com">sakindudinsara9@gmail.com</a>
 
 <br>
