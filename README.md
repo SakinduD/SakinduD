@@ -77,7 +77,7 @@ Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, a
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>Ceylon Odyssey</strong> is a full-stack MERN application designed for destination and travel management, providing real-time analytics and seamless tour package handling.</p>
+        <p><strong>A modern, microservices-based food ordering and delivery platform for Sri Lanka.</strong></p>
       </div>
     </td>
   </tr>
