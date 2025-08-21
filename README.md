@@ -68,13 +68,12 @@ Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, a
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Ceylon Odyssey</h3>
+      <h3 align="center">Food Ordering System</h3>
       <div align="center">
-        <a href="https://github.com/Loo0per/Ceylon-Odyssey" target="_blank">
-          <img src="https://github.com/your-github-username/Ceylon-Odyssey/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="Ceylon Odyssey">
+        <a href="https://github.com/SakinduD/food-ordering-system" target="_blank">
         </a>
         <p>
-          <a href="https://github.com/Loo0per/Ceylon-Odyssey" target="_blank">
+          <a href="https://github.com/SakinduD/food-ordering-system" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
